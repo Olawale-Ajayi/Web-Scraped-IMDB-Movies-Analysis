@@ -13,3 +13,5 @@ Further data visalization and exploratory data analysys (EDA) is carried out wit
 # Data Visualization
 Power BI is used to Visualize the Net Generated Revenue for the top 10 Movies, Top Genre and Their Gross Net, Gross Net Changes over the Year and Highly rated and Voted Movies<br>
 The Interactive Visualization is presented in a report on Power BI ( find the attached .pbix file)
+
+
