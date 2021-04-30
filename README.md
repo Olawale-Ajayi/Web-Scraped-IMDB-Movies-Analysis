@@ -1,5 +1,7 @@
 # Web-Scraped-IMDB-Movies-Analysis
 
+![Screenshot (303)](https://user-images.githubusercontent.com/66826707/116708107-4b30af80-a9c7-11eb-8c03-e2513153781f.png)
+
 # About The data
 
 The data for this analysis is scraped form IMDB.com, a popuar movies website with over 10 millions movies. 
